@@ -2,7 +2,7 @@
 
 > Go语言圣经挺好书籍，可在Gitbook下载。
 
-+ 实现方法和解析可见我的[博客](whuwzp.github.io)中go学习(2)。
++ 实现方法和解析可见我的[博客](http://whuwzp.github.io)中go学习(2)。
 
 
 
